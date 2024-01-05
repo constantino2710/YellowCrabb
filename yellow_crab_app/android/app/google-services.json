@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568763560248",
+    "project_id": "yellow-crab",
+    "storage_bucket": "yellow-crab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568763560248:android:9fbd3697dcff88b50511cd",
+        "android_client_info": {
+          "package_name": "com.mycompany.yellowcrab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw-YKCsZy8bw4qg5odKXBdr4igwoxcR2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568763560248:android:8269597fc76c86bf0511cd",
+        "android_client_info": {
+          "package_name": "com.mycompany.yellowcrabapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw-YKCsZy8bw4qg5odKXBdr4igwoxcR2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
